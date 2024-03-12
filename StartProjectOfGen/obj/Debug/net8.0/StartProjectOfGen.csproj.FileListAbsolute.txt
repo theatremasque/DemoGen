@@ -1,0 +1,14 @@
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\bin\Debug\net8.0\StartProjectOfGen.exe
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\bin\Debug\net8.0\StartProjectOfGen.deps.json
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\bin\Debug\net8.0\StartProjectOfGen.runtimeconfig.json
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\bin\Debug\net8.0\StartProjectOfGen.dll
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\bin\Debug\net8.0\StartProjectOfGen.pdb
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.AssemblyInfoInputs.cache
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.AssemblyInfo.cs
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.csproj.CoreCompileInputs.cache
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.dll
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\refint\StartProjectOfGen.dll
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.pdb
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\StartProjectOfGen.genruntimeconfig.cache
+C:\Users\oleksandr\RiderProjects\DemoGen\StartProjectOfGen\obj\Debug\net8.0\ref\StartProjectOfGen.dll
